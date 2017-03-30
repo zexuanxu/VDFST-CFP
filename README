@@ -1,0 +1,20 @@
+All Rights Reserved
+
+Author: Zexuan Xu
+Postdoctoral Fellow, Climate and Ecosystem Sciences Division, Lawrence Berkeley National Laboratory
+PhD from Department of Earth, Ocean and Atmospheric Science, Florida State University
+Email: xuzexuan@gmail.com or zexuanxu@lbl.gov
+
+VDFST-CFP (Variable Density Flow and Solute Transport - Conduit Flow Process)
+
+This is the code/model to simuate density-dependent seawater intrusion/submarine groundwater discharge processes in a dual-permeability aquifer system (e.g, karst aquifer). 
+Density-dependent groundwater flow and salt transport are coupled.
+Non-laminar flow in the conduit and darcial flow in the porous medium are coupled.
+
+If you would like to use/modify the code, please contact me first. 
+
+Please cite: Xu, Z., and B. X. Hu (2017), Development of a discrete-continuum VDFST-CFP numerical model for simulating seawater intrusion to a coastal karst aquifer with a conduit system, Water Resour. Res., 53, 688–711, doi:10.1002/2016WR018758.  
+
+
+
+
